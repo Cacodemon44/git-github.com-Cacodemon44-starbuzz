@@ -1,0 +1,29 @@
+body {
+	font-family: sans-serif;
+	font-size: 14px;
+	font-weight: bolder;
+}
+
+h1, h2 {    
+	color: gray;
+}
+
+h1 { 
+	border-bottom: 1px solid black;
+}
+
+p {
+	color: maroon	;
+}
+
+p.rasberry {
+	color:blue;
+}
+
+p.greentea {
+	color: green;
+}
+
+p.Blueberry {
+	color:purple;
+}

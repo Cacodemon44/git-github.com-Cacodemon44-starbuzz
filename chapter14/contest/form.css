@@ -1,0 +1,39 @@
+body {
+    background: #efe5d0 url(../starbuzz/images/background.gif) top left; 
+    margin: 20px;
+   }
+   form {
+    display: table;
+    padding: 10px;
+    border: thin dotted #7e7e7e;
+    background-color: #bca78f;
+   }
+   form textarea {
+    width: 500px;
+    height: 200px;
+   }
+h1,h2 {
+    margin-left:5px;
+}
+
+.tablerow {
+  display: table-row;
+}
+.leftcell {
+  display:          table-cell;
+  background:       #efe5d0 url(images/background.gif) top left;
+  font-size:        105%;
+  width: 20%;
+  padding:          5px;
+  vertical-align: top;
+  
+}
+.rightcell {
+  display:          table-cell;
+  background:       #efe5d0 url(images/background.gif) top left;
+  font-size:        105%;
+  padding:           5px;
+  vertical-align: top;
+}
+
+
