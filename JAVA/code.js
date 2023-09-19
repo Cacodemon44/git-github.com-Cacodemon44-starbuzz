@@ -8,6 +8,6 @@ while (count > 0) {
  if (count > 0) {
  console.log(count + " " + word + " of beer on the wall.");
  } else {
- console.log("No more " + word + " of beers on the wall.");
+ console.log("No more " + word + " of beerfs on the wall.");
  }
 }
