@@ -19,6 +19,6 @@ while isSunk==false; //пока корабль не потоплен
                 isSunk=true;
                 alert ("The ship is destroyed");
             }
-            
+
         
 
