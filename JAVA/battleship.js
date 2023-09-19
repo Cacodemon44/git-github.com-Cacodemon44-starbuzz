@@ -12,7 +12,7 @@ while isSunk==false; //пока корабль не потоплен
         else { 
         guesses=guesses+1;
         }
-        if guess= location1 or location2 or location3 {
+        if guess= location1 or locatiion2 or location3 {
             hits=hits+1
         }
             if hits=3 {
